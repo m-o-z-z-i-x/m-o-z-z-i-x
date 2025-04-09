@@ -86,12 +86,7 @@
   <img src="https://roadmap.sh/card/wide/67e4a807616abc6b0b6a41ad?variant=light&roadmaps=vue%2Cjavascript%2Cgit-github" alt="Roadmap Stats" width="49%">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-o-z-z-i-x/m-o-z-z-i-x/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-o-z-z-i-x/m-o-z-z-i-x/github-contribution-grid-snake-dark.svg">
-
-  <img src="https://raw.githubusercontent.com/m-o-z-z-i-x/m-o-z-z-i-x/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/m-o-z-z-i-x/m-o-z-z-i-x/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
 
 <hr><!-- SEPARATOR --------------------------------------------------------- -->
 
