@@ -6,7 +6,7 @@
 	<p>I adhere to principles of clean code and performance optimization, and I'm proficient with version control systems such as <strong>Git</strong>, <strong>GitHub</strong>, and <strong>GitLab</strong>, as well as CI/CD processes.</p>
 	<p>Beyond frontend development, I have experience in <strong>system administration</strong> and <strong>backend development</strong>. I manage and configure servers on <strong>Linux</strong> and <strong>Windows</strong>, ensuring their stability, security, and optimization. My skills also include network administration, virtualization, and automating processes using tools like <strong>Bash</strong>, <strong>PowerShell</strong>, and <strong>Python</strong>.</p>
 	<p>Additionally, I have a solid background in <strong>information security</strong>. I proactively identify system and network vulnerabilities and work on implementing effective solutions to mitigate them.</p>
-	<blockquote>My primary platform is <a href="https://codeberg.org/m-o-z-z-i-x">Codeberg<a/>, and I use GitHub as a mirror</blockquote>
+	<blockquote>My main platform is <a href="https://codeberg.org/m-o-z-z-i-x">Codeberg<a/> and I use GitHub for public projects</blockquote>
   <details open>
 		<summary><b style="cursor:pointer">🛠️ Languages and Tools</b></summary>
 		<br>
