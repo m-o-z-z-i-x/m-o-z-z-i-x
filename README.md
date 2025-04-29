@@ -111,6 +111,12 @@
   <a href="https://x.com/m_o_z_z_i_x">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
+  <a href="https://www.instagram.com/m_o_z_z_i_x">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.threads.net/@m_o_z_z_i_x">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads">
+  </a>
 	<a href="https://bsky.app/profile/m-o-z-z-i-x.bsky.social">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff" alt="Bluesky">
   </a>
