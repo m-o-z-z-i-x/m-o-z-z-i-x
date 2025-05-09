@@ -79,7 +79,7 @@
 
 <hr><!-- SEPARATOR --------------------------------------------------------- -->
 
-<h2>📬 Stats</h2>
+<h2>📈 Stats</h2>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=m-o-z-z-i-x&show_icons=true&theme=ligth&count_private=true" alt="Github Stats" width="49%">
