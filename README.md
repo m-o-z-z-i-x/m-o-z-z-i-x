@@ -1,7 +1,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <div>
-	<p>Я разработчик полного стека с более чем 4-летним опытом создания надежных, масштабируемых веб-приложений с нуля. Я специализируюсь на разработке адаптивных, удобных для пользователя интерфейсов с использованием Vue.js, JavaScript, HTML5 и CSS3 в сочетании с современными инструментами, такими как Vite, для быстрой модульной разработки.</p>
+	<p>I'm a full-stack developer with over 4 years of experience building robust, scalable web applications from the ground up. I specialize in developing responsive, user-friendly interfaces using Vue.js, JavaScript, HTML5, and CSS3, combined with modern tools like Vite for fast, modular development.</p>
 	<p>On the backend, I work with PHP and MySQL, designing and maintaining reliable APIs, business logic, and database architectures. My workflow is deeply integrated with Git and CI/CD pipelines to ensure smooth delivery and collaboration.</p>
 	<p>Beyond web-application development, I have a strong background in system administration and DevOps. I configure and maintain servers running Linux and Windows, manage networking, and automate routine tasks using Bash, PowerShell, and Python. I'm also experienced in setting up secure, optimized environments for development and production.</p>
 	<p>Additionally, I take a proactive approach to information security, regularly identifying system vulnerabilities and implementing preventive solutions to ensure stable and secure operations.</p>
