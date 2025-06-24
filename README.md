@@ -1,24 +1,24 @@
 <h2>👨‍💻 About Me</h2>
 
 <div>
-	<p>I'm a frontend developer with over 4 years of experience, specializing in creating user-friendly, high-performance, and responsive web interfaces.</p>
-	<p>My core technologies include <strong>Vue.js</strong>, <strong>JavaScript</strong>, <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>Bootstrap</strong>. I focus on building scalable solutions, working with UI components, client-side logic, and API integrations. For efficient development, I utilize tools like <strong>Vite</strong> and <strong>Webpack</strong>.</p>
-	<p>I adhere to principles of clean code and performance optimization, and I'm proficient with version control systems such as <strong>Git</strong>, <strong>GitHub</strong>, and <strong>GitLab</strong>, as well as CI/CD processes.</p>
-	<p>Beyond frontend development, I have experience in <strong>system administration</strong> and <strong>backend development</strong>. I manage and configure servers on <strong>Linux</strong> and <strong>Windows</strong>, ensuring their stability, security, and optimization. My skills also include network administration, virtualization, and automating processes using tools like <strong>Bash</strong>, <strong>PowerShell</strong>, and <strong>Python</strong>.</p>
-	<p>Additionally, I have a solid background in <strong>information security</strong>. I proactively identify system and network vulnerabilities and work on implementing effective solutions to mitigate them.</p>
-	<blockquote>My main platform is <a href="https://codeberg.org/m-o-z-z-i-x">Codeberg<a/> and I use GitHub for public projects</blockquote>
-  <details open>
-		<summary><b style="cursor:pointer">🛠️ Languages and Tools</b></summary>
+	<p>Я разработчик полного стека с более чем 4-летним опытом создания надежных, масштабируемых веб-приложений с нуля. Я специализируюсь на разработке адаптивных, удобных для пользователя интерфейсов с использованием Vue.js, JavaScript, HTML5 и CSS3 в сочетании с современными инструментами, такими как Vite, для быстрой модульной разработки.</p>
+	<p>On the backend, I work with PHP and MySQL, designing and maintaining reliable APIs, business logic, and database architectures. My workflow is deeply integrated with Git and CI/CD pipelines to ensure smooth delivery and collaboration.</p>
+	<p>Beyond web-application development, I have a strong background in system administration and DevOps. I configure and maintain servers running Linux and Windows, manage networking, and automate routine tasks using Bash, PowerShell, and Python. I'm also experienced in setting up secure, optimized environments for development and production.</p>
+	<p>Additionally, I take a proactive approach to information security, regularly identifying system vulnerabilities and implementing preventive solutions to ensure stable and secure operations.</p>
+	<p>I’m passionate about writing clean, efficient code, continuously learning new technologies, and building systems that are both powerful and maintainable.</p>
+	<blockquoteиз блока>My main platform is <a href="https://codeberg.org/m-o-z-z-i-x">Codeberg<a/> and I use GitHub for public projects</blockquote
+  <Подробные сведения Открыть>
+		<summaryсведения><b Стиль=">🛠️ Languages and Tools</b></summary
 		<br>
 		<p>
 			<a href="https://developer.mozilla.org/ru/docs/Web/HTML">
-				<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+				<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" АЛЬТ="HTML5">
 			</a>
 			<a href="https://developer.mozilla.org/ru/docs/Web/CSS">
-				<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+				<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" АЛЬТ="CSS3">
 			</a>
 			<a href="https://developer.mozilla.org/ru/docs/Web/JavaScript">
-				<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+				<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" АЛЬТ="JavaScript">
 			</a>
 			<a href="https://vuejs.org">
 				<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
