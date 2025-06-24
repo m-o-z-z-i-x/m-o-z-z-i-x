@@ -1,11 +1,11 @@
 <h2>👨‍💻 About Me</h2>
 
 <div>
-	<p>I'm a full-stack developer with over 4 years of experience building robust, scalable web applications from the ground up. I specialize in developing responsive, user-friendly interfaces using Vue.js, JavaScript, HTML5, and CSS3, combined with modern tools like Vite for fast, modular development.</p>
-	<p>On the backend, I work with PHP and MySQL, designing and maintaining reliable APIs, business logic, and database architectures. My workflow is deeply integrated with Git and CI/CD pipelines to ensure smooth delivery and collaboration.</p>
-	<p>Beyond web-application development, I have a strong background in system administration and DevOps. I configure and maintain servers running Linux and Windows, manage networking, and automate routine tasks using Bash, PowerShell, and Python. I'm also experienced in setting up secure, optimized environments for development and production.</p>
-	<p>Additionally, I take a proactive approach to information security, regularly identifying system vulnerabilities and implementing preventive solutions to ensure stable and secure operations.</p>
-	<p>I’m passionate about writing clean, efficient code, continuously learning new technologies, and building systems that are both powerful and maintainable.</p>
+	<p>I'm a full-stack developer with over 4 years of experience building robust, scalable web applications from the ground up. I specialize in developing responsive, user-friendly interfaces using Vue.js, JavaScript, HTML5, and CSS3, combined with modern tools like Vite for fast, modular development</p>
+	<p>On the backend, I work with PHP and MySQL, designing and maintaining reliable APIs, business logic, and database architectures. My workflow is deeply integrated with Git and CI/CD pipelines to ensure smooth delivery and collaboration</p>
+	<p>Beyond web-application development, I have a strong background in system administration and DevOps. I configure and maintain servers running Linux and Windows, manage networking, and automate routine tasks using Bash, PowerShell, and Python. I'm also experienced in setting up secure, optimized environments for development and production</p>
+	<p>Additionally, I take a proactive approach to information security, regularly identifying system vulnerabilities and implementing preventive solutions to ensure stable and secure operations</p>
+	<p>I’m passionate about writing clean, efficient code, continuously learning new technologies, and building systems that are both powerful and maintainable</p>
 	<blockquote>My main platform is <a href="https://codeberg.org/m-o-z-z-i-x">Codeberg<a/> and I use GitHub for public projects</blockquote>
   <details open>
 		<summary><b style="cursor:pointer">🛠️ Languages and Tools</b></summary>
