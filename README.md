@@ -3,12 +3,11 @@
 <div>
 	<p>I'm a <b>Full-Stack developer</b> with over 4 years of experience in developing large-scale B2B solutions and enterprise systems, from architecture and internal logic to clean, responsive interfaces. I pay special attention to code cleanliness, usability, and scalability</p>
 	<p>
-    <b>Frontend:</b> I develop modern and user-friendly interfaces using <b>Vue.js, JavaScript (ES6+), HTML5 and CSS3</b> and many other tools<br>
+    <b>Frontend:</b> I develop modern and user-friendly interfaces using <b>Vue.js, JavaScript (ES6+) + TypeScript, HTML5 and CSS3</b> and many other tools<br>
 	  <b>Backend:</b> I create reliable <b>PHP/MySQL/PostgreSQL</b> APIs, implement complex business logic, and design scalable database structures
   </p>
 	<p>In addition to basic development, I have good skills in DevOps and infrastructure management. I set up and maintain servers on Linux and Windows, automate tasks using Bash, PowerShell, and Python, and provide a stable and secure environment for both development and production</p>
 	<p>Although information security is not my main focus, I consider it an integral part of reliable work and actively practice it</p>
-  <p>I never stop learning and strive to offer solutions that are both technically sound and durable</p>
 	<blockquote>My main platform is <a href="https://codeberg.org/m-o-z-z-i-x">Codeberg<a/> and I use GitHub for public projects</blockquote>
   <details open>
 		<summary><b style="cursor:pointer">🛠️ Languages and Tools</b></summary>
@@ -23,6 +22,9 @@
 			<a href="https://developer.mozilla.org/ru/docs/Web/JavaScript">
 				<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" АЛЬТ="JavaScript">
 			</a>
+      <a href="https://www.typescriptlang.org">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      </a>
 			<a href="https://vuejs.org">
 				<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
 			</a>
