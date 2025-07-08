@@ -1,10 +1,11 @@
 <h2>👨‍💻 About Me</h2>
 
 <div>
-	<p>I'm a <b>Full-Stack developer</b> with over 4 years of experience in developing large-scale B2B solutions and enterprise systems, from architecture and internal logic to clean, responsive interfaces. I pay special attention to code cleanliness, usability, and scalability</p>
+	<p>I'm a <strong>Full-Stack developer</strong> with over 4 years of experience in developing large-scale B2B solutions and enterprise systems, from architecture and internal logic to clean, responsive interfaces. I pay special attention to code cleanliness, usability, and scalability</p>
 	<p>
-    <b>Frontend:</b> I develop modern and user-friendly interfaces using <b>Vue.js, JavaScript (ES6+) + TypeScript, HTML5 and CSS3</b> and many other tools<br>
-	  <b>Backend:</b> I create reliable <b>PHP/MySQL/PostgreSQL</b> APIs, implement complex business logic, and design scalable database structures
+    <strong>Frontend:</strong> I develop modern and user-friendly interfaces using <strong>Vue.js, JavaScript (ES6+) + TypeScript, HTML5 and CSS3</strong> and many other tools<br>
+	  <br>
+    <strong>Backend:</strong> I create reliable <strong>PHP/MySQL/PostgreSQL</strong> APIs, implement complex business logic, and design scalable database structures
   </p>
 	<p>In addition to basic development, I have good skills in DevOps and infrastructure management. I set up and maintain servers on Linux and Windows, automate tasks using Bash, PowerShell, and Python, and provide a stable and secure environment for both development and production</p>
 	<p>Although information security is not my main focus, I consider it an integral part of reliable work and actively practice it</p>
