@@ -8,7 +8,7 @@
     <strong>Backend:</strong> I create reliable <strong>PHP/MySQL/PostgreSQL</strong> APIs, implement complex business logic, and design scalable database structures
   </p>
 	<p>In addition to basic development, I have good skills in DevOps and infrastructure management. I set up and maintain servers on Linux and Windows, automate tasks using Bash, PowerShell, and Python, and provide a stable and secure environment for both development and production</p>
-	<p>Although information security is not my main focus, I consider it an integral part of reliable work and actively practice it</p>
+	<p><i>Although information security is not my main focus, I consider it an integral part of reliable work and actively practice it</i></p>
 	<blockquote>My main platform is <a href="https://codeberg.org/m-o-z-z-i-x">Codeberg<a/> and I use GitHub for public projects</blockquote>
   <details open>
 		<summary><b style="cursor:pointer">🛠️ Languages and Tools</b></summary>
