@@ -88,7 +88,7 @@
 <h2>📈 Stats</h2>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=m-o-z-z-i-x&show_icons=true&theme=ligth&count_private=true" alt="Github Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-o-z-z-i-x&show_icons=true&theme=graywhite&count_private=true" alt="Github Stats" width="49%">
   <img src="https://roadmap.sh/card/wide/67e4a807616abc6b0b6a41ad?variant=light&roadmaps=vue%2Cjavascript%2Cgit-github" alt="Roadmap Stats" width="49%">
 </div>
 
